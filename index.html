@@ -1,39 +1,397 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>stuti chugh blog</title>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
+  <title>Stuti Chugh Website</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;color:#191970}
+  .margin {margin-bottom: 45px;}
+  #hthree{font-weight: bold; color:#191970; font-size: 30px;  }
+  .bg-1 {
+
+/*       background-image:url("finmapbg.jpeg"); */
+      background-size: 100%;
+      color:#556b2f ;
+      font-weight: bold;
+  }
+  .bg-2 {
+      background-color: #ffff00;
+      color: #ffffff;
+  }
+  .bg-3 {
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 {
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 30px;
+      padding-bottom: 30px;
+  }
+  .navbar {
+      padding-top: 2px;
+      padding-bottom: 5px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+      background-color: #ffff00;
+      color:#191970;
+      font-weight: bold;
+      }
+
+    .opaquebox{
+    background-color: #fff;
+    width: 400px;
+    color: #191970;
+    /*padding: 25px;*/
+
+
+    }
+    #itsOwnClass{
+      color: #191970;
+/*       top: 20px; */
+      font: 32px Montserrat, sans-serif;
+      font-weight: bolder;
+
+
+/*       top: -5px; */
+    }
+
+    #threeClass{
+      bottom:500px;
+      left:5px;
+      font: 12px Montserrat, sans-serif; color: #191970; font-weight: bold;
+      background-color: yellow;
+    }
+
+/*   .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+      left: 15px;
+  }
+  .dropdown {
+    color: #191970;
+    }
+   .dropdown-menu {
+     color: #191970;
+     font: 12px Montserrat, sans-serif;
+     list-style-type: none;
+     display: inline;
+     float: left;
+     padding: 0;
+    }
+
+   .dropdown-menu li a:hover {
+      color: #1abc9c !important;
+      left: 15px;
+    } */
+
+/*    #forNav {
+     padding: 10px;
+     top:5px;} */
+       /* Dropdown Content (Hidden by Default) */
+/* .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+} */
+/*      ul {
+    list-style-type: none; */
+/*     margin: 50px;
+    padding: =px; */
+/*     overflow: hidden;
+    background-color: yellow;
+}
+
+li {
+    float: left; */
+/* } */
+/* Dropdown Button */
+/* .dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer; */
+/* } */
+
+/* The container <div> - needed to position the dropdown content */
+/* .dropdown {
+    position: relative;
+    display: inline-block;
+}
+ */
+/* Dropdown Content (Hidden by Default) */
+/* .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+} */
+
+/* Links inside the dropdown */
+/* .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+/* .dropdown-content a:hover {background-color: #f1f1f1} */
+
+/* Show the dropdown menu on hover */
+/* .dropdown:hover .dropdown-content {
+    display: block;
+} */
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+/* .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+} */ */
+/*
+li a, .dropbtn {
+    display: table;
+    color: #191970;
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: table;
+}
+
+.dropdown-content {
+/*     display: none; */
+/*     position: absolute;
+    background-color: yellow;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+} */
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff
+    text_align: center;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: white;
+}
+
+li.dropdown {
+    display: inline-block;
+     list-style-type: none;
+}
+
+.dropdown-content {
+    display: none;
+    font: 12px Montserrat, sans-serif; color: #191970; font-weight: bold;
+    position: absolute;
+    background-color: yellow;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #fff}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+    #move{
+      top: 20px;
+      left:6px;
+      color: #191970;
+    }
+
+
+  </style>
 </head>
-  <body>
-
-  <h4> CLICKBAIT   </h4>
-
-  <h6> Netflix </h6>
-
-<p>
-    This show was quite a ride! I stumbled upon this Netflix mini series on a rainy weekend which was the perfect timing. The trailer is literally a ‘clickbait’ into the show, which starts with another clickbait-y element, a video of Nick Brewer holding a sign that reads, “at 5 million views I die”. Upon discovering this, Pia, his sister with whom he had a fight the previous night; races to find Nick. The show then does a deep-dive episode on each and every possible suspect that you can think of, that could be related to Nick being missing(or dead?..shhh). Eventually the person responsible ends up being someone you’d have never thought of.<br>
-
-    It is always nice for me to see some brown representation on American television, which in this show was Detective Roshan Amiri. The series shows a glimpse of the immigrant family experience and also shows an almost-romantic relationship between Pia and Detective Amiri that doesn’t go too far, which may be the only thing that disappointed me about this show. <br>
-
-    Without giving too much away…I feel this Office gif sums up the show… <br>
-
-    </p>
-
-    <div class="tenor-gif-embed" data-postid="4948829" data-share-method="host" data-aspect-ratio="1.82" data-width="50%"><a href="https://tenor.com/view/dwight-theoffice-identitytheft-not-a-joke-gif-4948829">Dwight Theoffice GIF</a>from <a href="https://tenor.com/search/dwight-gifs">Dwight GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<body>
 
 
-    <p> Also here are some of my favorite tweets that I saw after the show... </p>
+<nav class="navbar">
+<!--   <div class="container-fluid">
+    <div class="navbar-header"> -->
+<!--   <a class ="navbar-brand"id="itsOwnClass">Stuti Chugh</a> -->
+  <ul style="list-style-type: none" >
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Places I have live in/been to</a>
+    <div class="dropdown-content">
+      <a href="YouTubeTrends.html">Serbia Solo Birthday Trip</a>
+      <a href="stat_inf_project.html">Bay Area: My favorite place I lived in thus far</a>
+      <a href="https://public.tableau.com/views/RegAnalysis/NewUserRegistrationFunnelDashboard?:language=en-US&:display_count=n&:origin=viz_share_link">School in Missouri</a>
+      <a href="Simple Linear Regression-Stuti Chugh.html">Croatia Work Travels ft. Photomath </a>
+      <!-- <a href="Logistic_Regression_Classifier_Stuti_Chugh.html">Logistic Regression Classifier</a>
+      <a href="MUreport.html">Public Healthcare MU report Analysis</a>
+      <a href="mastersproject.html">Spam Classifier using Markov Chains and Supoort Vector Machines</a> -->
 
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Absolutely nobody:<br><br>Pia:<a href="https://twitter.com/hashtag/clickbait?src=hash&amp;ref_src=twsrc%5Etfw">#clickbait</a> <a href="https://twitter.com/hashtag/clickbaitnetflix?src=hash&amp;ref_src=twsrc%5Etfw">#clickbaitnetflix</a> <a href="https://t.co/qCsy6EEj9U">pic.twitter.com/qCsy6EEj9U</a></p>&mdash; Walking in Μemphis (@emphisdeeeepay) <a href="https://twitter.com/emphisdeeeepay/status/1434638999671513090?ref_src=twsrc%5Etfw">September 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Comedy Stuff</a>
+    <div class="dropdown-content">
+      <a href="GWCAtlanta.html">Why I am obsessed with Comedy</a>
+      <a href="GWCAutodesk.html">My favorite Comedians</a>
+      <a href="pinterest.html">Favorite SNL sketches and standup sets on Youtube</a>
+      <!-- <a href="YelpSummer.html">Yelp Diary</a> -->
+    </div>
 
-    <script src="https://utteranc.es/client.js"
-        repo="stutichugh.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Books and Shows Reccs and Reviwes</a>
+    <div class="dropdown-content">
+      <a href="clickbait.html">Clickbait: a Netflix miniseries</a>
+      <a href="financial_maps.html">YOU: Netlfix</a>
+
+<!--     </div>
+   <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Software Engineering projects</a>
+    <div class="dropdown-content">
+      <a href="YumTown-master/YumTown-master/index.html">Recipe App</a>
+    </div>  -->
+
+</ul>
 
 
 
-  </body>
+<!--     <div id="forNav"> -->
+<!--     <ul class="nav navbar-nav" id="threeClass">
+      <li><a href="homepage.html">Home</a></li>
+      <div class="dropdown">
+        <button class="dropbtn">Dropdown</button>
+          <div class="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div> -->
+
+<!--       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown">Girls Who Code<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"></a>GWC Summer 2016</li>
+          <li><a href="#">GWC Summer 2017</a></li>
+          <li><a href="pinterest.html">GWC Pinterest Fieldtrip</a></li>
+        </ul>
+      </li> -->
+<!--       <li><a href="finmathscratch.html">Financial Math Scratch Games</a></li>
+      <li><a href="financial_maps.html">Financial Map- an API project</a></li>
+    </ul>
+  </div> -->
+</nav>
+<!--   <ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
+    <div class="dropdown-content">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+  </li> -->
+
+<!-- First Container -->
+<div class="container-fluid bg-1 text-center">
+<center><div class='opaquebox'>
+<h3 class="margin" id='hthree'>Hi there, I am Stuti!</h3></div>
+  <img src="stuti.jpg" class="img-responsive img-circle margin" style="display:inline" alt="Stuti" width="350" height="350">
+  <div class='opaquebox'><h3 id='hthree'>and I am a girl who codes (and loves data)</h3></div>
+</div></center>
+
+<!-- Second Container -->
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin" id='hthree'>Why did I create this website?</h3>
+  <p>In 2017 I spent a whole summer teaching, learning, and getting inspired by twenty female high school students who joined me in my mission to close the gender gap in technology. We did this by being part of a summer immersion program hosted by <b> Girls Who Code </b> and sponsored by Autodesk San Francisco. A summer of teaching girls in a city that is probably the Mecca of Tech inspired me to create this website to showcase some of my projects. Academically I am of math background. I have worked as a data analyst for about 2 years in the Bay Area at an Ed-tech startup and I currently work as a machine learning analyst at solar product company. </p>
+  <!-- <a href="#" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-search"></span> Search
+  </a> -->
+</div>
+
+<!-- Third Container (Grid) -->
+<div class="container-fluid bg-3 text-center">
+  <h3 class="margin" id='hthree'>Want to know more about Girls Who Code or Me?</h3><br>
+  <div class="row row-centered" "style = align-content: center">
+    <div class="col-sm-6">
+      <p>Girls Who Code is a non-profit organization that works towards closing the gender gap in technology. Their mission is to encourage women to pursue STEM careers by exposing them to basic programming languages while they are in still in high school. Check them out!</p>
+      <a href="https://girlswhocode.com/"> <img src="gwclogo.jpg" class="img-responsive margin" style="width:100%" alt="Image"></a>
+    </div>
+<!--     <div class="col-sm-6">
+      <p>The University of Missouri is a public land-grant research university located in Columbia, Missouri. As the largest university in the state, it is the flagship campus of the University of Missouri System, which also maintains campuses in Kansas City, Rolla, and St. Louis. MU is one of only 60 public and private U.S. universities invited to membership in the prestigious Association of American Universities. AAU membership helps Mizzou attract external funding and recruit top faculty and students.</p>
+      <a href="http://missouri.edu/"><img src="mizzou.jpg" class="img-responsive margin" style="width:100%" alt="Image"></a>
+    </div> -->
+    <div class="col-sm-6">
+      <p>To know more about my work, educational background, or to just get in touch with me to learn more about my professional endeavors and interests, check out my LinkedIn profile! </p>
+      <a href="https://www.linkedin.com/in/stuti-chugh/"><img src="blah2.jpg" class="img-responsive margin" style="width:100%" alt="Image"/></a>
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+    <p>powered by<a href="https://www.w3schools.com">www.w3schools.com</a></p>
+</footer>
+
+</body>
 </html>
