@@ -70,7 +70,7 @@ ul.posts li {
 
 .dropdown-content {
   display: none;
-  top: 2px:
+  /* top: 2px: */
   position: absolute;
   background-color: #FFFFFF;
   /* min-width: 160px; */
@@ -80,7 +80,7 @@ ul.posts li {
   color: #cc8899;
   text-align: left;
   font-weight: bold;
-  box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.2);
+  /* box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.2); */
   z-index: 1;
 }
 
