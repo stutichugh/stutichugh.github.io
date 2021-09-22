@@ -76,7 +76,11 @@ ul.menu li {
   /* top: 2px: */
   position: absolute;
   background-color: #FFFFFF;
-  min-width: 160px;
+  padding-top: 0.5%;
+  padding-bottom: 0%;
+  width: auto;
+    height: auto;
+  /* min-width: 160px; */
   /* width= 100%; */
   overflow:auto;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
