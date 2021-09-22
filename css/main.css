@@ -76,8 +76,8 @@ ul.menu li {
   /* top: 2px: */
   position: absolute;
   background-color: #FFFFFF;
-  /* min-width: 160px; */
-  width= 100%;
+  min-width: 160px;
+  /* width= 100%; */
   overflow:auto;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   color: #cc8899;
