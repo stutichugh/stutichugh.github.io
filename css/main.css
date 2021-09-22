@@ -46,13 +46,14 @@ footer {
 
 ul {
     margin: 20px auto 40px;
-    font-size: 1.4em;
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #999;
 }
 
  li {
     list-style: none;
+    font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #999;
 }
@@ -88,7 +89,7 @@ ul {
   overflow:auto;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   color: #cc8899;
-  text-align: left;
+  text-align: center;
   font-weight: bold;
   /* box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.2); */
   z-index: 1;
