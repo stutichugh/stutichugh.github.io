@@ -78,14 +78,14 @@ ul.posts li {
   padding-bottom: 0%;
   /* width: auto;
     height: auto; */
-  min-width: 60px;
+  min-width: 160px;
   /* width= 100%; */
   overflow:auto;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   color: #cc8899;
   text-align: left;
   font-weight: bold;
-  /* box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.2); */
+  box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
