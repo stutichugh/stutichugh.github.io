@@ -91,6 +91,6 @@ ul.posts li {
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {text-decoration: underline;}
 
 .dropdown:hover .dropdown-content {display: block;}
