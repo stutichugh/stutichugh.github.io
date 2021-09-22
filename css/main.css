@@ -53,6 +53,9 @@ ul.posts li {
     list-style: none;
 }
 
+ul.menu li {
+    list-style: none;
+}
 
 .center {
   display: block;
