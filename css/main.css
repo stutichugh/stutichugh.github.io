@@ -81,7 +81,7 @@ ul.menu li {
   padding-bottom: 0%;
   /* width: auto;
     height: auto; */
-  /* min-width: 160px; */
+  min-width: 60px;
   /* width= 100%; */
   overflow:auto;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
