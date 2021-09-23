@@ -45,7 +45,7 @@ footer {
 }
 
 }
-          .container .box {
+          /* .container .box {
              display : flex;
             flex-direction : row;
 
@@ -55,14 +55,28 @@ footer {
           .container .box .box-cell.box1 {
               background:#cc8899;
               color:white;
+
               text-align:justify;
               font-family:'Helvetica', 'Arial', 'Sans-Serif';
-           }
-          .container .box .box-cell.box2 {
-              background:#999;
-              text-align:justify
-              font-family:'Helvetica', 'Arial', 'Sans-Serif';
-          }
+           } */
+
+           .flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background:#cc8899;
+    color:white;
+    /* border: 2px solid yellow; */
+}
+
+/* .flex-child:first-child {
+    margin-right: 20px;
+} */
+
+
 
 ul {
     margin: 20px auto 40px;
