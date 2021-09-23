@@ -39,30 +39,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-/* 
-.container {
-  border: 5px solid ;
-  border-radius: .5em;
-  padding: 10px;
-  display: flex;
-  flex: 1;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  background:#cc8899;
-  color:white;
-  /* justify-content: space-between; */
-}
 
-.item {
-  width: 200px;
-  height: 100px;
-  /* padding: 10px; */
-  /* background-color: rgba(111,41,97,.3);
-  border: 2px solid rgba(111,41,97,.5); */
-  /* flex: 1; */
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  background: #cc8899;
-  color:white;
-} */
 
 ul {
     margin: 20px auto 40px;
