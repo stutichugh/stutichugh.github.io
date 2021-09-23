@@ -60,7 +60,7 @@ footer {
               font-family:'Helvetica', 'Arial', 'Sans-Serif';
            } */
 
-           .flex-container {
+           /* .flex-container {
     display: flex;
     flex-direction: row;
 }
@@ -71,13 +71,26 @@ footer {
     background:#cc8899;
     color:white;
     /* border: 2px solid yellow; */
-}
+} */
 
 /* .flex-child:first-child {
     margin-right: 20px;
 } */
 
+.container {
+  border: 5px solid rgb(111,41,97);
+  border-radius: .5em;
+  padding: 10px;
+  display: inline-flex;
+}
 
+.item {
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  background-color: rgba(111,41,97,.3);
+  border: 2px solid rgba(111,41,97,.5);
+}
 
 ul {
     margin: 20px auto 40px;
