@@ -11,10 +11,6 @@ nav ul, footer ul {
     color: #999;
 }
 
-/* img {
-  border-radius: 50%;
-} */
-
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -43,40 +39,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-/* } */
-          /* .container .box {
-             display : flex;
-            flex-direction : row;
-
-          }
-
-
-          .container .box .box-cell.box1 {
-              background:#cc8899;
-              color:white;
-
-              text-align:justify;
-              font-family:'Helvetica', 'Arial', 'Sans-Serif';
-           } */
-
-           /* .flex-container {
-    display: flex;
-    flex-direction: row;
-}
-
-.flex-child {
-    flex: 1;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    background:#cc8899;
-    color:white;
-    /* border: 2px solid yellow; */
-
-
-/* .flex-child:first-child {
-    margin-right: 20px;
-} */
-
+/* 
 .container {
   border: 5px solid ;
   border-radius: .5em;
@@ -99,7 +62,7 @@ footer {
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   background: #cc8899;
   color:white;
-}
+} */
 
 ul {
     margin: 20px auto 40px;
@@ -118,49 +81,9 @@ ul {
 }
 
 
-.center {
+/* .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-
-
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  /* top: 2px: */
-  position: absolute;
-  background-color: #FFFFFF;
-  /* padding-top: 10%; */
-  margin-top: 18px;
-  margin-left: 6px;
-  padding-bottom: 0%;
-   /* width: auto; */
-    /* height: auto; */
-  min-width: 160px;
-  /* width= 100%; */
-  /* overflow:auto; */
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  color: #cc8899;
-  text-align: center;
-  font-weight: bold;
-  /* box-shadow: 1px 8px 16px 0px rgba(0,0,0,0.2); */
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: #cc8899;
-  /* padding: 12px 16px; */
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {text-decoration: underline;}
-
-.dropdown:hover .dropdown-content {display: block;}
+} */
