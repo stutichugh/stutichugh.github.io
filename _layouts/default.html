@@ -38,6 +38,13 @@
 			{{ content }}
 
 			</div><!-- /.container -->
+
+			<div>
+			{% if page.comments == true %}
+			  {% include comments.html %}
+			{% endif %}
+
+			</div>
 			<footer>
 				<div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5eb2fc91c98c76244126010c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7d30729939390c7a25cb"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="sqsrte-small">© 2021 Stuti Chugh<br></p></div></div></div></div></div>
 			</footer>
