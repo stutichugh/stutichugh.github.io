@@ -74,4 +74,17 @@ border-radius: 0.5rem;
 position: relative;
 width: 350;
 margin: 1rem;
+transition: 250ms all ease-in-out;
+cursor: pointer;
+}
+
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card:hover{
+  transform: :scale(1.05);
+  box-shaow: 0px 2px 40px;
 }
