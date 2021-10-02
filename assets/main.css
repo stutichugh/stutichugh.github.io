@@ -21,7 +21,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    /* color: red ! important ; */
+    color: #cc8899 ! important ;
 }
 h3 {
     /* font-size: 3em; */
