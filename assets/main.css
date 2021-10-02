@@ -20,7 +20,8 @@ a {
     color: #999;
 }
 a:hover {
-    color: #cc8899 ! important ;
+    /* color: #cc8899 ! important ; */
+    background-color: #cc8899;
     text-decoration: underline;
 
 }
