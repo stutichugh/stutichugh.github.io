@@ -20,8 +20,9 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
     color: #cc8899 ! important ;
+    text-decoration: underline;
+
 }
 h3 {
     /* font-size: 3em; */
