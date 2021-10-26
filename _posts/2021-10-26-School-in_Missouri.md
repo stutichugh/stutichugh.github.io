@@ -3,7 +3,7 @@ layout: post
 title:  "What I learnt from 6 years of school in Missouri (aside from coursework)"
 featured: true
 categories: [ Jekyll ]
-image: assets/images/IMG_2027.JPG
+image: assets/images/IMG_2027.jpg
 ---
 
 I arrived in middle-of-no-where Missouri for my undergraduate degree in 2012. This was my first time in the US. I had no idea what to expect from the experience. I am glad it turned out to be pleasantly surprising in most aspects, if not all.
@@ -48,6 +48,6 @@ Here a few things I learned from my years in Missouri, aside from the obvious sc
     ![]({{ site.baseurl }}/assets/images/IMG_2030.jpg)
 
     :-------------------------:|:-------------------------:
-        ![]({{ site.baseurl }}/assets/images/IMG_2031.JPG)|  ![]({{ site.baseurl }}/assets/images/IMG_2032.jpg)
+        ![]({{ site.baseurl }}/assets/images/IMG_2031.jpg)|  ![]({{ site.baseurl }}/assets/images/IMG_2032.jpg)
 
     These people and experiences helped me become the person I am today and I couldn't be more thankful.
