@@ -41,9 +41,9 @@ Here a few things I learned from my years in Missouri, aside from the obvious sc
 
     Prior to moving to Missouri I only had Indian friends who all thought in a similar one dimensional way based on how our culture raised us. Upon arriving at Truman State, I quickly discovered that there are no options other than mingling with non-Indians, be it international students from other countries or Missourians/Americans, as there were little to no Indian students at Truman. Initially this was something out of my comfort zone but it soon became the new norm, to a point where being pushed towards living in a densely Indian populated neighborhoods later in life became the new 'discomfort zone'. Once you're exposed to a way of living wherein your identity is not reduced to your ethnicity/nationality, it can be very difficult to revert back to the Indian you once were. This could have been totally different had I started with Mizzou where I ended up later for grad school where there was a high population of Indian students and an Indian student association.
 
-    As much as I would have appreciated support in the form of other Indians during my freshman year I also feel extremely indebted towards Truman's unique experience that taught me how to peak out of my little shell and learn about different cultures and introduce others to my culture.
+    As much as I would have appreciated support in the form of other Indians during my freshman year I also feel extremely indebted towards Truman's unique experience that taught me how to peak out of my little shell and learn about different cultures and introduce others to my culture. And when I say diversity I don't just mean race, I am also referring to people who reflect a diversity of experience, identity and perspective
 
-    I feel there are so many things as small as music, artists, shows, and cuisines to as big as life ideologies, religion, dating/marriage, and other thought patterns, that I would have not been exposed to had I stayed in an Indian bubble at a bigger university. I am glad that I got to meet people from all different walks of life and learn something different from each of them, and also be to draw similarities despite our usual differences.
+    I feel there are so many useful and interesting things as small as music, artists, shows, and cuisines to as big as life ideologies, religion, dating/marriage, gender and sexuality, and other thought patterns/perspectives, that I would have not been exposed to had I stayed in an Indian bubble at a bigger university. I am glad that I got to meet people from all different walks of life and learn something different from each of them, and also be to draw similarities despite our usual differences.
 
     ![]({{ site.baseurl }}/assets/images/IMG_2030.jpg)
 
@@ -51,3 +51,9 @@ Here a few things I learned from my years in Missouri, aside from the obvious sc
         ![]({{ site.baseurl }}/assets/images/IMG_2031.jpg)|  ![]({{ site.baseurl }}/assets/images/IMG_2032.jpg)
 
     These people and experiences helped me become the person I am today and I couldn't be more thankful.
+
+- **College is not the 'best 4 years of your life'**
+
+    It is a very popular saying when it comes to college that these are going to be the best 4 years of your life. They are not. They may however end up being the most formative years of your life, but not always the 'best'. This is because you go throw a lot of changes in your undergraduate degree. I switched majors, went through my first heartbreak/rejection(romantic), went into therapy for the first time, and realized I am not as special as I used to think I am, all in those first 4 years. Those years changed my thought process, ideologies, and broadened my horizons in many ways. When we say best the usual connotation is that it's all fun and no struggle and that's a straight-up lie that me and my friends experienced.
+
+    The best years of my life by that definition were actually during my first 2 years working as data analyst in the Bay Area. Having money and not being a broke college student on a meagre stipend felt really good and felt like being a real adult. There were challenges but I would mark those to be as the best years of my life and not my undergraduate, which is assumed to be the case.
