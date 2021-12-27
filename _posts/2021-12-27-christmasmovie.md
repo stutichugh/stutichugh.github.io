@@ -9,11 +9,11 @@ rating: 4.5
 ---
 Don't look up is a great sci-fi satirical comedy that released this christmas weekend. I am not usually into sci-fi but the A-list star cast and the christmas weekend made for this to be a compelling watch.
 
-The movie starts with a shot of Kate Dibiasky played by Jennifer Lawrence discovering a comet and letting Professor Mindy played by Leonardo Dicaprio know about it. The team initially celebrates but as soon as Dr Mindy and Kate realize that the ephemeris of the comet keeps getting lower and lower, the movie takes a serious turn.
+The movie starts with a shot of Kate Dibiasky (played by Jennifer Lawrence) discovering a comet and letting Professor Mindy (played by Leonardo Dicaprio) know about it. The team initially celebrates but as soon as Dr Mindy and Kate realize that the ephemeris of the comet keeps getting lower and lower, the movie takes a serious turn.
 
 According to the calculations the comet is 5 to 10 km wide and is going to directly hit the earth in 6 month and 14 days making it an catasphrophic planet-destroying event.
 
-What then is a series of non believers including US government that initially brushes this off as yet another 'world is ending' meetings they have been in and the media that believe the news of a celebrity couple breaking up to be more valueable than that of this comet.
+What then follows is a series of non believers including US government that initially brushes this off as yet another 'world is ending' meetings they have been in and the media that believe the news of a celebrity couple breaking up to be more valueable than that of this comet.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/DontLookUp?src=hash&amp;ref_src=twsrc%5Etfw">#DontLookUp</a> resume in one pic <a href="https://t.co/rgR1spAtSV">pic.twitter.com/rgR1spAtSV</a></p>&mdash; Lyra☄️ (@kettcrdamn) <a href="https://twitter.com/kettcrdamn/status/1474937624473194498?ref_src=twsrc%5Etfw">December 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
