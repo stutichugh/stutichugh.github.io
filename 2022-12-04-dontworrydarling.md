@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Don't Worry Darling"
+categories: [ Jekyll ]
+tags: [red, yellow]
 image: assets/images/clickbait.jpeg
 description: "My review of a mindfuck of a psychological thriller called Don't Worry Darling"
 image: assets/images/dontworrydarling.jpg
