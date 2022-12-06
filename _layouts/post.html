@@ -32,7 +32,8 @@ post_class: post-template
                         {% endif %} -->
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a
+                            target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
                         <span class="author-description">{{ author.description }}</span>
                     </div>
                 </div>
@@ -45,7 +46,7 @@ post_class: post-template
 
             <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
+            {% include adsense-under-header.html %}
             {% endif %}
             <!-- End Adsense -->
 
@@ -53,9 +54,13 @@ post_class: post-template
             {% if page.image %}
 
             {% if site.lazyimages == "enabled" %}
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid lazyimg"
+                src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+                data-src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image
+                }}{% endif %}" alt="{{ page.title }}">
             {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid" src="{% if page.image contains " ://" %}{{ page.image }}{% else %}{{
+                site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
             {% endif %}
 
             {% endif %}
@@ -65,13 +70,13 @@ post_class: post-template
             <div class="article-post">
                 <!-- Toc if any -->
                 {% if page.toc %}
-                    {% if page.beforetoc %}
-                        <p><em>{{page.beforetoc}}</em></p>
-                    {% endif %}
-                    <div class="toc mt-4 mb-4 lead">
-                        <h3 class="font-weight-bold">Summary</h3>
-                        {% include toc.html html=content %}
-                    </div>
+                {% if page.beforetoc %}
+                <p><em>{{page.beforetoc}}</em></p>
+                {% endif %}
+                <div class="toc mt-4 mb-4 lead">
+                    <h3 class="font-weight-bold">Summary</h3>
+                    {% include toc.html html=content %}
+                </div>
                 {% endif %}
                 <!-- End Toc -->
                 {{content}}
@@ -86,15 +91,18 @@ post_class: post-template
 
             <!-- Post Date -->
             <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
+                <small>
+                    <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{
+                            page.date | date_to_string }}</time></span>
+                    {% if page.last_modified_at %}
+                    (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}"
+                        itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                    {% endif %}
                 </small>
             </p>
 
             <!-- Post Categories -->
+            {% if page.categories %}
             <!-- <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
@@ -105,9 +113,11 @@ post_class: post-template
                     {% endfor %}
                 </ul>
             </div> -->
+            {% endif %}
             <!-- End Categories -->
 
             <!-- Post Tags -->
+            {% if page.tags %}
             <!-- <div class="after-post-tags">
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
@@ -118,6 +128,7 @@ post_class: post-template
                     {% endfor %}
                 </ul>
             </div> -->
+            {% endif %}
             <!-- End Tags -->
 
             <!-- Prev/Next -->
