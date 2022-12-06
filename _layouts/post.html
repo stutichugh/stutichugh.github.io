@@ -95,7 +95,31 @@ post_class: post-template
             </p>
 
             <!-- Post Categories -->
-            {% if page.catgories != nil %} ... {% endif %}
+            {% if page.catgories != nil %}
+<div class="after-post-cats">
+    <ul class="tags mb-4">
+        {% assign sortedCategories = page.categories | sort %}
+        {% for category in sortedCategories %}
+        <li>
+            <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
+
+{% if page.tags != nil %}
+<div class="after-post-tags">
+    <ul class="tags">
+        {% assign sortedTags = page.tags | sort %}
+        {% for tag in sortedTags %}
+        <li>
+            <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
             <!-- <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
