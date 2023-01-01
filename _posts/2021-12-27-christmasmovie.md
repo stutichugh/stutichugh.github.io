@@ -4,7 +4,7 @@ title:  "Dont Look Up"
 categories: [ Jekyll, tutorial ]
 image: assets/images/dontlookup.jpeg
 description: "Review of a movie I watched over the Christmas weekend"
-featured: true
+featured: false
 rating: 4.5
 ---
 Don't look up is a great sci-fi satirical comedy that released this christmas weekend. I am not usually into sci-fi but the A-list star cast and the christmas weekend made for this to be a compelling watch.

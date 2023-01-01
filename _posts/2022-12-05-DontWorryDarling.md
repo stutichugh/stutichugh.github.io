@@ -5,7 +5,7 @@ categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/dontworrydarling.jpg
 description: "My review of a mindfuck of a psychological thriller called 'Don't Worry Darling'"
-featured: true
+featured: false
 rating: 3.5
 ---
 I watched Don't Worry Darling in the theatre and just now again on HBOMAX. It didn't have great reviews which was surprising to me because the movie literally blew my mind! The twist was so unexpected but once it happened, everything started falling into place. It still left MANY unanswered questions and also had one of those open-to-interpretation endings; niether of which I am a huge fan of, hence the 3.5/5 rating.
