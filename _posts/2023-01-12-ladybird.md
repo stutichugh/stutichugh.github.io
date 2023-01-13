@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Ladybird"
+categories: [ Jekyll, tutorial ]
+tags: [red, yellow]
+image: assets/images/ladybird.jpg
+description: "My review of (perhaps) one of my top 10 favorite movies"
+featured: true
+rating: 4.5
+---
+I first watched Ladybird with my friend Rachel when they had a free showing in the University of Missouri-Columbia. It was an awesome experience! I would describe the genre to be 'feel-good slash teen angst' There were SO MANY themes I related to.
+
+So I decided to rewatch it by renting/buying it on one of these last few nights before my 'funemployment' ends. Fun fact: If you rent a movie on youtube in Germany, it ends up being in Deutsche(with no options to change language or put subtitles **facepalms**) I eventually ended up buying on itunes but if anyone wants to watch this movie in German in the next 48 hours, hit me up lol, i'll pass you the rental for free.
+
+The movie has some incredible writing by Greta Gerwig and two very pretty faces(Soairse Ronan and Timothee Chalamet). Timothee Chalamet shows up at 30 minute mark (you're welcome!). Soairse is a delight to watch. I am pretty sure I have copied that hairstyle/haircolor at some point in my life and may do it again this upcoming summer. The movie also made me nostalgic (at one point _cry me a river_ by Justin Timberlake started playing haha)
+
+Some of the themes I related to are:
+
+* hatred for hometown
+* turbulent relationship with mom
+* fighting to go to her choice of college in her choice of state/country
+* forced religion/spirituality
+* confusion regarding choosing a major
+* sorting out financial aid/scholarship
+* inappropriate crushes on teachers
+* losing virginity experience
+* wanting to go to liberal arts school
+* unsupportive and discouraging school teachers
+* trying marijuana for the first time
+* pre marital sex taboo
+* boy crazy
+* skirt length check at school
+* mean girls and bullies
+* mental health stigma
+
+The movie has some good quotes, for some of these I won't give context, you just gotta watch:
+
+* “The only exciting thing about 2002 is that it’s palindrome”
+* “It’s hard to find a girl to date that’s not my cousin”
+* “First one to cry, wins”
+* [on drug overdose and suicide] “My mom says same difference if you’re that careless with your life”
+* “6 inches for the Holy Spirit”
+* “Dad, come in”- “how did you know it was me?”-“mom doesn’t knock”
+* "I’m not paying you to flirt"- "I wasn’t flirting"-"wish you had been"
+* “Do you have a support system?” (probably the most difficult question a therapist can ask you)
+* [Sacremento] “It’s the Midwest of California” - I have lived in both so this was hilarious
+* "Your moms tits are fake”
+* [reply to abortion shaming] “Just because something looks ugly doesn’t mean it’s morally wrong”
+* “If your mother have had this abortion, we wouldn’t have to sit through this stupid assembly”
+* [Parent guilt] "do you have any idea how much it cost to raise you"
+* "I’ll write you a check of the money I owe you"
+* "Remember when tie-dye was an activity"
+* [before Timothee Chalamet revealed he lied about being a virgin] “We deflowered each other, we have each others flowers”
+* “I was on top. Who is on top on their first time”
+* "are we still going to prom together"
+* "Different things can be sad, it doesn’t always have to be war"
+* “Married to Jesus”
+* “Mom, you’re giving me an eating disorder”
+* “Is it too pink?” (my college roommate also said this to my once)
+* “You’re aren’t going to get in a car with a guy who honks at you, are you”
+* "Just crying, some people aren’t built happy, you know"
+* "I really like dry humping much more"
+
+
+The movie eventually has a happy ending. _Ladybird_  goes to college, finally accepts her roots of Sacremento, and mends her relationship with her mom. She does end up in a hospital due to alcohol poisoning though, after her first college party, but hey!, her choice of college nonetheless...
