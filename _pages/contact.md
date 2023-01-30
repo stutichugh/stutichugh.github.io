@@ -11,4 +11,4 @@ The best way to reach me is via [instagram](https://www.instagram.com/s2teee/)  
 
 And if you like, REALLY, like my blog, you can buy me a coffee lol:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad){:target="_blank"}
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/stutichugh){:target="_blank"}
