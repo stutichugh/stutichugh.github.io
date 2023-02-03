@@ -31,4 +31,4 @@ This last one is bittersweet(yes I won't share more than 3, the blog post will b
 ![h]({{ site.baseurl }}/assets/images/rb3.jpg)
 ![i]({{ site.baseurl }}/assets/images/rb4.jpg)
 ![j]({{ site.baseurl }}/assets/images/rb5.jpg)
-![k]({{ site.baseurl }}/assets/images/rb5.jpg)
+![k]({{ site.baseurl }}/assets/images/rb6.jpg)
