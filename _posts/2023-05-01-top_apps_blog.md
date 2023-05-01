@@ -25,11 +25,11 @@ But even better than the store is their app. I think the best thing about the ap
 They also have rewards point and great ~Rabbats~ if you ask me
 
 :-------------------------:|:-------------------------:
-![a]({{ site.baseurl }}/assets/images/UO-3.png)  |  ![b]({{ site.baseurl }}/assets/images/UO-2.png)
+![a]({{ site.baseurl }}/assets/images/UO-3.PNG)  |  ![b]({{ site.baseurl }}/assets/images/UO-2.PNG)
 
 I think the most aestherically pleasing thing about the app is this geometric circle that tells you how many points have you acquired.
 
-![geometric]({{ site.baseurl }}/assets/images/geometrically-pleasing-UO.jpg)
+![geometric]({{ site.baseurl }}/assets/images/geometrically-pleasing-UO.PNG)
 
 
 I guess I could have video/giphy recording the whole visual but I'm not THAT Indian(glass floor v/s glass ceiling)
@@ -40,17 +40,17 @@ Venmo is a cool app not only for money exchange but also to be able to do creati
 
 Here are some examples:
 
-![bb]({{ site.baseurl }}/assets/images/venmo_baby_burrito.jpg)
+![bb]({{ site.baseurl }}/assets/images/venmo_baby_burrito.png)
 
-![bb1]({{ site.baseurl }}/assets/images/venmo-2.jpg)
+![bb1]({{ site.baseurl }}/assets/images/venmo-2.png)
 
-![bb2]({{ site.baseurl }}/assets/images/venmo-4.jpg)
+![bb2]({{ site.baseurl }}/assets/images/venmo-4.png)
 
-![bb3]({{ site.baseurl }}/assets/images/venmo-10.jpg)
+![bb3]({{ site.baseurl }}/assets/images/venmo-10.png)
 
-![bb4]({{ site.baseurl }}/assets/images/venmo-15.jpg)
+![bb4]({{ site.baseurl }}/assets/images/venmo-15.png)
 
-![bb5]({{ site.baseurl }}/assets/images/venmo.jpg)
+![bb5]({{ site.baseurl }}/assets/images/venmo.png)
 
 But you also gotta be careful because these 'statuses' can get out of hand sometimes. Like passive aggressive vibes
 
