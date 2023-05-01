@@ -27,7 +27,7 @@ They also have rewards point and great ~Rabbats~ if you ask me
 :-------------------------:|:-------------------------:
 ![a]({{ site.baseurl }}/assets/images/UO-3.PNG)  |  ![b]({{ site.baseurl }}/assets/images/UO-2.PNG)
 
-I think the most aestherically pleasing thing about the app is this geometric circle that tells you how many points have you acquired.
+I think the most aesthetically pleasing thing about the app is this geometric circle that tells you how many points have you acquired.
 
 ![geometric]({{ site.baseurl }}/assets/images/geometrically-pleasing-UO.PNG)
 
@@ -36,7 +36,7 @@ I guess I could have video/giphy recording the whole visual but I'm not THAT Ind
 
 ### Venmo
 
-Venmo is a cool app not only for money exchange but also to be able to do creative self-expression in the form of emoji and puns while you're paying people back.
+Venmo is a cool app not only for money exchange but also to be able to do creative self-expression in the form of emojis and puns while you're paying people back.
 
 Here are some examples:
 
@@ -54,7 +54,7 @@ Here are some examples:
 
 But you also gotta be careful because these 'statuses' can get out of hand sometimes. Like passive aggressive vibes
 
-![bb6]({{ site.baseurl }}/assets/images/jloo_venmo_passive_aggresive.jpg)
+![bb6]({{ site.baseurl }}/assets/images/jloo_venmo_passive_aggresive.png)
 
 ### starbucks
 
@@ -74,9 +74,9 @@ I think my bestie rambo hit the nail on the head when she unknowingly made a J C
 
 ### Tiktok
 
-Tiktok is a very inclusive space especially when it comes to mental health and dating and stuff. Gen z is *100 emoji! if you ask me. Loving the #browntiktok as well (especially since Ambani crossover party)
+Tiktok is a very inclusive space especially when it comes to mental health and dating and stuff. Gen Z is *100 emoji* if you ask me. Loving the #browntiktok as well (especially since Ambani crossover party)
 
-But yeah coming back to mental health there are some really good open people out there (accounts by the name of BPDBrian, BipolarBarber, et al)
+But yeah coming back to mental health there are some really good open people out there (accounts by the name of BPDBrian, BipolarBarber, et al).
 Not gonna lie some of the schizophrenia 'jokes' make me uncomfortable at times but more power to these people honestly.
 
 ### eMoods
