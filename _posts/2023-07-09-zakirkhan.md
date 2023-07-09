@@ -11,8 +11,8 @@ rating: 3.5
 
 Zakir Khan has been showing up on my reels a bunch so I thought I will finally pick a Saturday and watch his prime special. I think he is witty but loses momentum towards the end. Nonetheless there were some very good punchlines and observations.
 
-The most relatable bit that initially attracted me to the special was him giving women's perpspective when it comes to liking a boy:
-_apna lowest hit kar jat hai_ , and then they snap, _iska ab hogya_🙅 *hairflip* 💁 haha 
+The most relatable bit that initially attracted me to the special was him giving women's perspective when it comes to liking a boy:
+_apna lowest hit kar jati hai_ , and then they snap, _iska ab hogya_🙅 *hairflip* 💁 haha 
 
 Here are my other favs:
 
