@@ -5,7 +5,7 @@ categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/little_america.jpg
 description: "My review of just the first episode of Little America"
-featured: true
+featured: false
 rating: 4
 ---
 Little America is a show about immigrants living in America and their struggles. Its on Apple TV and I only watched the first episode('The Manager') because I only had the free trial till end of the year and I wasn't compelled to pay for the rest of the season.

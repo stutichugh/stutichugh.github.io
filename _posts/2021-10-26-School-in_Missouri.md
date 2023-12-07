@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What I learnt from 6 years of school in Missouri (aside from coursework)"
-featured: false
+featured: true
 categories: [ Jekyll ]
 image: assets/images/IMG_2027.jpg
 ---
