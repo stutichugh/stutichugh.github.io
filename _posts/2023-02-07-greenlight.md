@@ -6,7 +6,7 @@ featured: true
 categories: [ Jekyll ]
 image: assets/images/IMG_7716.jpg
 ---
-Greenlight Planet is a solar product company I worked for year-ish while living with parents in India in 2021.
+Greenlight Planet is a solar product company I worked for remotely for a year-ish while living with parents in India in 2021.
 
 Here's why they are cool:
 
@@ -18,7 +18,7 @@ They really do! There are recurring seminars on how to ensure gender parity. HR 
 
 ![a]({{ site.baseurl }}/assets/images/IMG_7715.jpg)
 
-They also provided bereavement leave to this lady in Africa which I thought was impressive.
+They also provided bereavement leave to a colleague of mine in Africa which I thought was impressive.
 
 Or maybe my bar is too low lol, because like I have in past worked at places where I was called to work on a 'small thing' while on PTO(that I announced well in advance). Also when I asked this employer about dental(insurance), she gave me death stare(forget mental health support)
 
@@ -30,8 +30,6 @@ The leaders have well thought out projects laid out for you well in advance. I a
 
 ## They have free coursera courses
 I think for the first month-ish at Greenlight I basically did numerous machine learning courses. Most companies _say_ they have L&D budget and what-not but GLP really comes through. Usually with other companies there is a glitch in actually getting to access said learning budget(technical issues, delays, et-al); but GLP makes it accessible almost instantly(as soon as you join)
-
-Then why I left? I don't like living in India, lol
 
 The best send off:
 
