@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Rewiring my brain/goals/life...using Ali Abdaal's book - Feel Good Productivity 📖 "
-categories: [ Jekyll ]
+categories: [ review, book ]
+tags: [review, book]
 image: assets/images/ali-abdaal-feel-good-productivity.jpeg
 featured: true
 ---

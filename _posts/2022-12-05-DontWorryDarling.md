@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Don't Worry Darling"
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [ review, movie]
+tags: [review, movie]
 image: assets/images/dontworrydarling.jpg
 description: "My review of a mindfuck of a psychological thriller called 'Don't Worry Darling'"
 featured: false

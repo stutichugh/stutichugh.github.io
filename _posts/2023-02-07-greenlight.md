@@ -3,7 +3,8 @@ layout: post
 title:  "Why Greenlight Planet(now Sunking) is a cool place to work at"
 featured: true
 #Archive: yes
-categories: [ Jekyll ]
+categories: [ review, tech, data]
+tags: [ review, tech, data]
 image: assets/images/IMG_7716.jpg
 ---
 Greenlight Planet is a solar product company I worked for remotely for a year-ish while living with parents in India in 2021.

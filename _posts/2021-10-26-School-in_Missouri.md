@@ -2,7 +2,8 @@
 layout: post
 title:  "What I learnt from 6 years of school in Missouri (aside from coursework)"
 featured: true
-categories: [ Jekyll ]
+categories: [ travel ]
+tags: [ travel ]
 image: assets/images/IMG_2027.jpg
 ---
 

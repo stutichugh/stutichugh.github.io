@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Dont Look Up"
-categories: [ Jekyll, tutorial ]
+categories: [ review, movie ]
+tags:[review, movie]
 image: assets/images/dontlookup.jpeg
 description: "Review of a movie I watched over the Christmas weekend"
 featured: false

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Zakir Khan: Haq Se Single"
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [ review, comedy, show]
+tags: [review, comedy, show]
 image: assets/images/zakirkhan.jpg
 description: "Zakir Khan comedy special"
 featured: false

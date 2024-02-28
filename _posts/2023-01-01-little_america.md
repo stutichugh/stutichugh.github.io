@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Little America"
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+categories: [ review, show ]
+tags: [review, show ]
 image: assets/images/little_america.jpg
 description: "My review of just the first episode of Little America"
 featured: false
