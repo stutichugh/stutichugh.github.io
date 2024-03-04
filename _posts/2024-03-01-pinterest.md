@@ -7,13 +7,11 @@ categories: [tech, data, travel]
 tags: [tech, data, travel]
 image: assets/images/stutipin.jpg
 ---
-Pinterst is my favorite app at the moment. Just like any millenial/genZ I am on my phone a lot and hence prone to doom scrolling. But I tried to hack myself into getting something good out of this force of habit and going on Pinterest (instead of instagram/tiktok) when I want to scroll.
+Pinterest is my favorite app at the moment. Just like any millenial/genZ I am on my phone a lot and hence prone to doom scrolling. But I tried to hack myself into getting something good out of this force of habit and going on Pinterest (instead of instagram/tiktok) when I want to scroll.
 
 This led me to reconnect with my creative side and make so many boards for art inspo, fashion and makeup, outfits, mental health, and many more
 
-Lately I have been using Pinterest to get inspiration for acryclic art projects that I can use as wall art for my new ap{art}ment. Here are some of my latest creations:
-
-:-------------------------:|:-------------------------:
+Lately I have been using Pinterest to get inspiration for acryclic art projects that I can use as wall art for my new ap{art}ment. 🏠🎨😁 Here are some of my latest creations:
 
  <img src="{{ site.baseurl }}/assets/images/embroidery-art-1.JPG" alt="Image A" width="500" /> | <img src="{{ site.baseurl }}/assets/images/embroidery-art-2.jpg" alt="Image B" width="500" /> 
 
@@ -22,9 +20,11 @@ Lately I have been using Pinterest to get inspiration for acryclic art projects 
 
 Aside from invoking the artist in me, it also refreshed my memories of the times I spent at Girls Who Code that led me to create [my personal website](https://stuti113.github.io/index.html) which I am now going to merge into this blog. My motivation? Also Pinterest! 
 
-Up until taking my GWC students on a fieldtrip to their HQ in San Francisco I used view tech and art as somewhat mutually exclusive. There have been several instance where me and many other creative friends of mine have been told that "oh! you? in anaytics/tech? but you seem more of a creative types?" and my response has been "why not both, brother?". This is perhaps an unconscious bias (of being skilled in either/or) that has been ingrained in our society(perhaps especially in South Asian cultures). Thankfully due to being exposed to multi-talented/dimensional people in my experience teaching for GWC and also during my times getting my bachelors at a liberal arts school(that also offers STEM education), and also Berlin, I have witnessed many examples of people who enjoy and excel in both their tech and creative endavours. I have met dual math and music majors in college and I have had an excellent analytics engineer colleague during my time at HF who also does music/DJing. I have met standup comedians who do software engineering as their day job. Such multi-faceted examples have led me to indulge in my creative side while contiuning a career in analytics and have also help shed limiting beliefs from external opinions(as well my own unconscious biases)
+Up until taking my GWC students on a fieldtrip to their HQ in San Francisco I used view tech and art as somewhat mutually exclusive. There have been several instances where me and many other creative friends of mine have been told that "oh! you? in anaytics/tech? but you seem more of a creative types?" and my response has been "why not both, brother?". This is perhaps an unconscious bias (of being skilled in either/or) that has been ingrained in our society(perhaps especially in South Asian cultures). Thankfully due to being exposed to multi-talented/dimensional people in my experience teaching for GWC and also during my times getting my bachelors at a liberal arts school(that also offers STEM education), and also Berlin, I have witnessed many examples of people who enjoy and excel in both their tech and creative endavours. I have met dual math and music majors in college and I have had an excellent analytics engineer colleague during my time at HF who also does music/DJing. I have met standup comedians who do software engineering as their day job. Such multi-faceted examples have led me to indulge in my creative side while contiuning a career in analytics and have also help shed limiting beliefs from external opinions(as well my own unconscious biases)
 
 Following is my experience of visiting Pinterest HQ in 2017. (Notice how the writing is peak kid-in-a-candy-store-20s-Stuti 😅, just discovering the world of tech. I cringed many a time reading this but I didn't change my draft from back then, as I wanted to save and show the non-jaded version of me just entering the world of tech)
+
+### Pinterest Fieltrip 2017
 
 Going to Pinterest was my most memorable field trip with Girls Who Code. Although all engagement opportunities excite me because we get to meet inspiring people working in Tech, I was especially excited about this one since I am an avid user of Pinterest and wanted to see where the magic happens. I was so impressed by the lobby aesthetic. And I could only imagine how beautiful the rest of the campus would be. "You looked very excited, Stuti!" is what one of the students said to me when she noticed how I was suddenly acting half my age. I quickly regained my composure and 'teacherly' stature when our host came to invite us in.
 
