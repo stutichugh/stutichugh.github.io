@@ -14,7 +14,8 @@ This led me to reconnect with my creative side and make so many boards for art i
 Lately I have been using Pinterest to get inspiration for acryclic art projects that I can use as wall art for my new ap{art}ment. Here are some of my latest creations:
 
 :-------------------------:|:-------------------------:
-![a]({{ site.baseurl }}/assets/images/embroidery-art-1.JPG)  |  ![b]({{ site.baseurl }}/assets/images/embroidery-art-2.jpg)
+<!-- ![a]({{ site.baseurl }}/assets/images/embroidery-art-1.JPG)  |  ![b]({{ site.baseurl }}/assets/images/embroidery-art-2.jpg) -->
+| <img src="{{ site.baseurl }}/assets/images/embroidery-art-1.JPG" alt="Image A" width="400" /> | <img src="{{ site.baseurl }}/assets/images/embroidery-art-2.jpg" alt="Image B" width="400" /> |
 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![]({{ site.baseurl }}/assets/images/embroidery_self_love_wip.jpg)  |  ![]({{ site.baseurl }}/assets/images/embroidery_self_love.jpg)|  ![]({{ site.baseurl }}/assets/images/embroidery_self_love_and_growth.jpg)
