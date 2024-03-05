@@ -9,10 +9,9 @@ image: assets/images/stutipin.jpg
 ---
 Pinterest is my favorite app at the moment. Just like any millenial/genZ I am on my phone a lot and hence prone to doom scrolling. But I tried to hack myself into getting something good out of this force of habit and going on Pinterest (instead of instagram/tiktok) when I want to scroll.
 
-This led me to reconnect with my creative side and make so many boards for [art inspo](https://pin.it/5HqlVHtHw), [fashion and makeup](https://pin.it/eiK9ThazD), [outfit inspo](https://pin.it/7q7viPvit), [mental health](https://pin.it/4uUr4JDUS), and [many more](https://pin.it/2hlp2eYJ8)
+This led me to reconnect with my creative side and make so many boards for [art inspo](https://pin.it/7znuGUFvo), [fashion and makeup](https://pin.it/4QGH6yer2), [outfit inspo](https://pin.it/4iIO7triq), [mental health](https://pin.it/59P7FMY47), and [many more](https://pin.it/2hlp2eYJ8)
 
 Lately I have been using Pinterest to get inspiration for acryclic art projects that I can use as wall art for my new ap{art}ment. 🏠🎨😁 Here are some of my latest creations:
-
  <img src="{{ site.baseurl }}/assets/images/embroidery-art-1.JPG" alt="Image A" width="500" /> | <img src="{{ site.baseurl }}/assets/images/embroidery-art-2.jpg" alt="Image B" width="500" /> 
 
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -47,9 +46,9 @@ So there it is! My experience of visiting Pinterest in 2017. And as mentioned ea
 
 So here are some of my past projects from my other portfolio website being merged into this blog:
 
-* [Girls Who Code 2017]
+* [Girls Who Code 2017]({% post_url 2017-08-01-gwc-2017.md%})
 * [Girls Who Code 2016]
-* [My Tableau Portfolio]
+* [**My Tableau Portfolio**]({% post_url 2024-03-05-tableau.md%})
 * [Youtube Trends Project]
 
 
