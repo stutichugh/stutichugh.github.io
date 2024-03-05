@@ -46,9 +46,9 @@ So there it is! My experience of visiting Pinterest in 2017. And as mentioned ea
 
 So here are some of my past projects from my other portfolio website being merged into this blog:
 
-* [Girls Who Code 2017]({% post_url 2017-08-01-gwc-2017.md%})
+* [Girls Who Code 2017]({% post_url 2017-08-01-gwc-2017 %})
 * [Girls Who Code 2016]
-* [**My Tableau Portfolio**]({% post_url 2024-03-05-tableau.md%})
+* [**My Tableau Portfolio**]({% post_url 2024-03-05-tableau %})
 * [Youtube Trends Project]
 
 
