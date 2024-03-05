@@ -82,7 +82,7 @@ Another interesting thing was that conventionally famous TV shows and channels l
 ### Total Views v/s Total Trending Videos
 The above observations got me thinking if number of trending videos is a good metric of YouTube Succcess. I have also wondered if there is an correlation between videos of the trending page and the number of views those trending videos get. So I decided to compare the total number of views a channel gets to total number of  trending videos. I used the following SQL commands.
 
-![]({{ site.baseurl }}/assets/images/TotalViews.JPG)
+![]({{ site.baseurl }}/assets/images/totalViews.JPG)
 
 
 Firstly, I plotted the number of views and trending videos of the top 10 channels ranked by total views.
