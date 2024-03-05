@@ -63,7 +63,7 @@ So it looks like people tend to upload the most on Wednesdays. And since this is
 ![]({{ site.baseurl }}/assets/images/TrendingDays.png)
 
 
-* Popular Channels and My Favorite Channels
+#### Popular Channels and My Favorite Channels
 Another most common analysis that one tends to ponder about such data is how many channels have the most Trending videos. To my surprise(or oblivion) sports channels had the most Trending videos. Since I mostly watch comedy channels or sketch content creators this was interesting to me. Though all the funny late night videos were a close second. I used the following SQL query to get that data and then used Tableau to plot it.
 
 ![]({{ site.baseurl }}/assets/images/top10.JPG)
