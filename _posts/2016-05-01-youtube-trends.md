@@ -53,7 +53,7 @@ I checked to make sure there is no data where the publish date is after trending
 
 ### Data exploration, modelling, insights
 
-* Trending and Uploading Days
+***Trending and Uploading Days***: 
 I have heard from a lot of social media enthusiasts like myself that there is a certain time in the day when one tends to get more likes and views. Some of my friends say weekday after 5  or during lunch are good times to change your Facebook profile picture because apparently that's prime browsing time. Some say Saturday morning is a good time to grab likes and comments on an Instagram! I always wondered if these rules apply to YouTube videos as well. So distributed the publish time along days of the week and foundthe following information.
 ![]({{ site.baseurl }}/assets/images/UploadDays.png)
 
@@ -82,12 +82,12 @@ Another interesting thing was that conventionally famous TV shows and channels l
 ### Total Views v/s Total Trending Videos
 The above observations got me thinking if number of trending videos is a good metric of YouTube Succcess. I have also wondered if there is an correlation between videos of the trending page and the number of views those trending videos get. So I decided to compare the total number of views a channel gets to total number of  trending videos. I used the following SQL commands.
 
-![]({{ site.baseurl }}/assets/images/totalViews.JPG)
+![]({{ site.baseurl }}/assets/images/TotalViews.JPG)
 
 
 Firstly, I plotted the number of views and trending videos of the top 10 channels ranked by total views.
 
-![]({{ site.baseurl }}/assets/images/TotalViews.png)
+![]({{ site.baseurl }}/assets/images/RankedByTotalViews.png)
 
 So as I suspected, being trending doesn't necessarily coincide with getting the most views. As this dual axis graph shows ***EminemVEVO*** and ***GEasy*** channels are the only ones 
 that show are an overlap. The notorious ***Logan Paul*** ranks 4th in the total views epartment but he isn't in the top 10 when channels are ranked by total trending videos as follows:
