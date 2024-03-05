@@ -12,14 +12,15 @@ Pinterest is my favorite app at the moment. Just like any millenial/genZ I am on
 This led me to reconnect with my creative side and make so many boards for [art inspo](https://pin.it/7znuGUFvo), [fashion and makeup](https://pin.it/4QGH6yer2), [outfit inspo](https://pin.it/4iIO7triq), [mental health](https://pin.it/59P7FMY47), and [many more](https://pin.it/2hlp2eYJ8)
 
 Lately I have been using Pinterest to get inspiration for acryclic art projects that I can use as wall art for my new ap{art}ment. 🏠🎨😁 Here are some of my latest creations:
- <img src="{{ site.baseurl }}/assets/images/embroidery-art-1.JPG" alt="Image A" width="500" /> | <img src="{{ site.baseurl }}/assets/images/embroidery-art-2.jpg" alt="Image B" width="500" /> 
+ <img src="{{ site.baseurl }}/assets/images/embroidery-art-1.JPG" alt="Image A" width="500" /> 
+<img src="{{ site.baseurl }}/assets/images/embroidery-art-2.jpg" alt="Image B" width="500" /> 
 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![]({{ site.baseurl }}/assets/images/embroidery_self_love_wip.jpg)  |  ![]({{ site.baseurl }}/assets/images/embroidery_self_love.jpg)|  ![]({{ site.baseurl }}/assets/images/embroidery_self_love_and_growth.jpg)
 
 Aside from invoking the artist in me, it also refreshed my memories of the times I spent at Girls Who Code that led me to create [my personal website](https://stuti113.github.io/index.html) which I am now going to merge into this blog. My motivation? Also Pinterest! 
 
-Up until taking my GWC students on a fieldtrip to their HQ in San Francisco I used to view tech and art as somewhat mutually exclusive. There have been several instances where me and many other creative friends of mine have been told that "oh! you? in anaytics/tech? but you seem more of a creative types?" and my response has been "why not both, brother?". This is perhaps an unconscious bias (about being skilled in either/or) that has been ingrained in our society(perhaps especially in South Asian cultures). Thankfully due to being exposed to multi-talented/dimensional people in my experience teaching for GWC and also during my times getting my bachelors at a liberal arts school(that also offers STEM education), and also Berlin, I have witnessed many examples of people who enjoy and excel in both their tech and creative endeavours. I have met dual math and music majors in college. I have had an excellent analytics engineer colleague during my time at HF who also does music/DJing. I have met standup comedians who do software engineering as their day job. Such multi-faceted examples have led me to indulge in my creative side while continuing a career in analytics and have also helped me shed limiting beliefs that have usually been a product of internalizing external remarks/opinions or my own unconscious biases.
+Up until taking my GWC students on a fieldtrip to their HQ in San Francisco I used to view tech and art as somewhat mutually exclusive. There have been several instances where me and many other creative friends of mine have been told that "oh! you? in analytics/tech? but you seem more of a creative types?" and my response has been "why not both, brother?". This is perhaps an unconscious bias (about being skilled in either/or) that has been ingrained in our society(perhaps especially in South Asian cultures). Thankfully due to being exposed to multi-talented/dimensional people in my experience teaching for GWC and also during my times getting my bachelors at a liberal arts school(that also offers STEM education), and also Berlin, I have witnessed many examples of people who enjoy and excel in both their tech and creative endeavours. I have met dual math and music majors in college. I have had an excellent analytics engineer colleague during my time at HF who also does music/DJing. I have met standup comedians who do software engineering as their day job. Such multi-faceted examples have led me to indulge in my creative side while continuing a career in analytics and have also helped me shed limiting beliefs that have usually been a product of internalizing external remarks/opinions or my own unconscious biases.
 
 Following is my experience of visiting Pinterest HQ in 2017. (Notice how the writing is peak kid-in-a-candy-store-20s-Stuti 😅, just discovering the world of tech. I cringed many a time reading this but I didn't change my draft from back then, as I wanted to save and show the non-jaded version of me just entering the world of tech)
 
@@ -46,10 +47,10 @@ So there it is! My experience of visiting Pinterest in 2017. And as mentioned ea
 
 So here are some of my past projects from my other portfolio website being merged into this blog:
 
-* [Girls Who Code 2017]({% post_url 2017-08-01-gwc-2017 %})
-* [Girls Who Code 2016]
+* [**Girls Who Code 2017**]({% post_url 2017-08-01-gwc-2017 %})
+* [**Girls Who Code 2016**]
 * [**My Tableau Portfolio**]({% post_url 2024-03-05-tableau %})
-* [Youtube Trends Project]
+* [**Youtube Trends Project**]({% post_url 2016-05-01-youtube-trends %})
 
 
 
