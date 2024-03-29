@@ -36,30 +36,32 @@ I split the rest of the post into the following sections. Feel free to skip thro
 
 - **The Temple**
 
-**The Dalai Lama temple** is the main attraction of this city. The temple is a 30ish minute walk from the main square. The road to the Temple is filled with cute shops selling handmade jewelry, souvenirs, clothes, bags, et al. And then ofcourse there are...the _Momo_ vendors.🥟🤩 Momos are present in every nook and corner of this city and they are delcious!😋-chicken, paneer, potato, veggie, they are all so good. Although there are good momos in any/every North Indian city (including Amritsar) at this point and I have seen/heard so many things about Delhi now becoming the new momo capital, I'd say no one can match the OG Tibetan/Mcleodganj momos.
+**The Dalai Lama temple** is the main attraction of this city. The temple is a 30ish minute walk from the main square. The road to the Temple is filled with cute shops selling handmade jewelry, souvenirs, clothes, bags, et al. And then ofcourse there are...the _Momo_ vendors.🥟🤩 Momos are present in every nook and corner of this city and they are deilcious!😋-chicken, paneer, potato, veggie, they are all so good. Although there are good momos in any/every North Indian city (including Amritsar) at this point and I have seen/heard so many things about Delhi now becoming the new momo capital, I'd say no one can match the OG Tibetan/Mcleodganj momos.
 
- :-------------------------:|:-------------------------:|:-------------------------:
-  ![a]({{ site.baseurl }}/assets/images/mclo_square.png)  |  ![b]({{ site.baseurl }}/assets/images/me_n_momos.png) |  ![b]({{ site.baseurl }}/assets/images/momo_outside_temple.png)
+ :-------------------------:|:-------------------------:
+ ![b]({{ site.baseurl }}/assets/images/me_n_momos.png) |  ![b]({{ site.baseurl }}/assets/images/momo_outside_temple.png)
 
 An assembly of monks were chanting inside the temple and I too sat there and did my daily gratitude journaling and reading in the company of soothing and meditative background of monks chanting.
 
- :-------------------------:|:-------------------------:|:-------------------------:
-  ![a]({{ site.baseurl }}/assets/images/inside_temple.png)  |  ![b]({{ site.baseurl }}/assets/images/inside_temple_3.png) |  ![b]({{ site.baseurl }}/assets/images/giant_roller.png)
+ :-------------------------:|:-------------------------:
+  ![a]({{ site.baseurl }}/assets/images/inside_temple.png)  |  ![b]({{ site.baseurl }}/assets/images/inside_temple_3.png) 
 
 There is this Prayer Wheel outside the temple that you can spin (clockwise) and it counts as reciting _Om Mani Padme Hum_ which translates to "कमल में रत्न की स्तुति". (<-- this is perhaps the first time I have typed in Hindi(in my blog & also after ages haha). The transliteration of this is _kamal ke ratn ki Stuti_. Yes! The Hindi google translation includes my name. _kamal_/_padme_ means Lotus, _ratn_ means Jewel, _Stuti_ means prayer/praise. So what this mantra translates to is **Offering Prayer to the Lotus Jewel**.)
 
- :-------------------------:|:-------------------------:|:-------------------------:
-  ![a]({{ site.baseurl }}/assets/images/mani_prayer_wheel.png)  |  ![b]({{ site.baseurl }}/assets/images/mani_prayer_wheel_2.png) |  ![b]({{ site.baseurl }}/assets/images/prayer_wheel_3.png)
+:-------------------------:|:-------------------------:
+![b]({{ site.baseurl }}/assets/images/mani_prayer_wheel_2.png) |  ![b]({{ site.baseurl }}/assets/images/prayer_wheel_3.png)
 
 
 - **The Tattoo**
-Lotus is a very revered flower in Buddhism(as well as Hinduism). It serves as a metaphor, in the sense, that just as Lotus grows and emerges bautifully from muddy waters, we too can grow out of our difficult circumstances and bloom into a beautiful flower. This concept has helped me stay patient in many a hard times and it was just so fitting to finally get a Lotus tattoo I have been wanting to get since a teen.
+Lotus is a very revered flower in Buddhism(as well as Hinduism). It serves as a metaphor, in the sense that, just as Lotus grows and emerges beautifully from muddy waters, we too can grow out of our difficult circumstances and bloom into a beautiful flower. This concept has helped me stay patient in many a hard times and it was just so fitting to finally get a Lotus tattoo I have been wanting to get since a teen.
+
+:-------------------------:|:-------------------------:
+![b]({{ site.baseurl }}/assets/images/lotus_tattoo_2.JPG) |  ![b]({{ site.baseurl }}/assets/images/lotus_quote_3.jpeg)
 
 
-![b]({{ site.baseurl }}/assets/images/lotus_tattoo_2.JPG)
 
-   :-------------------------:|:-------------------------:|:-------------------------:
-  ![a]({{ site.baseurl }}/assets/images/lotus_quote_1.jpeg)  |  ![b]({{ site.baseurl }}/assets/images/lotus_quote_2.png)| ![b]({{ site.baseurl }}/assets/images/lotus_quote_3.jpeg)
+![a]({{ site.baseurl }}/assets/images/lotus_quote_1.jpeg)  |  ![b]({{ site.baseurl }}/assets/images/lotus_quote_2.png)
+  
 
 
 #### Naddi and Bhagsunath
@@ -123,8 +125,10 @@ Another thing that kept me company and brought me in the moment was the scenic u
 
 And ofcourse, the Punjabi _Dhaabas_ along the way made the journey as awesome as the destination. I haven't had such good Punjabi food in ages and was glad to have these restaurants as pitstops on our journey to the hills.
 
-   :-------------------------:|:-------------------------:|:-------------------------:
-  ![a]({{ site.baseurl }}/assets/images/dhaba_1.JPG)  |  ![b]({{ site.baseurl }}/assets/images/lemonchicken.JPG) |  ![b]({{ site.baseurl }}/assets/images/dhaba_2.png)
+   :-------------------------:|:-------------------------:
+  ![a]({{ site.baseurl }}/assets/images/dhaba_1.JPG)  |  ![b]({{ site.baseurl }}/assets/images/lemonchicken.JPG) 
+  
+  ![b]({{ site.baseurl }}/assets/images/dhaba_2.png)
 
 
 #### Until Next Time
@@ -133,5 +137,5 @@ Although the timing of this trip was very fitting, I'd say I would have had even
 
 Since _keeps it real_ I want to share that travelling with parents can be intimidating in your 30's. Lets just say we had. . .our moments. But nonetheless getting to relive my childhood memories and doing this for my mom who has been couped up at home since her surgery was the upside. 
 
-There were also many things I saw along the way that my parents couldn't have accompanied me on and since both Dad and I were pressed on time due to our respective works, I feel I missed out on many things I'd like to explore either with friends or solo(and making friends along the way). The place is known to offer many adventure sports (such as paragliding), many beautiful(but also too steep/uphill for my parents)treks, camping, bonfire opportunities, and yoga/reiki/meditation retreats. I also saw many _workation_ typa crowd here and I could also see myself working from mountains for 20-30 days and setting up camp here while working my 9-5, and also having a solid peak self-care 5-9 routine filled with meditation, yoga, and other adventures.
+There were also many things I saw along the way that my parents couldn't have accompanied me on and since both Dad and I were pressed on time due to our respective works, I feel I missed out on many things I'd like to explore either with friends or solo(and make friends along the way). The place is known to offer many adventure sports (such as paragliding), many beautiful(but also too steep/uphill for my parents)treks, camping, bonfire opportunities, and yoga/reiki/meditation retreats. I also saw many _workation_ typa crowd here and I could also see myself working from mountains for 20-30 days and setting up camp here while working my 9-5, and also having a solid peak self-care 5-9 routine filled with meditation, yoga, and other adventures.
 
