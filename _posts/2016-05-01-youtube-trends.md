@@ -55,6 +55,7 @@ I checked to make sure there is no data where the publish date is after trending
 
 ***Trending and Uploading Days***: 
 I have heard from a lot of social media enthusiasts like myself that there is a certain time in the day when one tends to get more likes and views. Some of my friends say weekday after 5  or during lunch are good times to change your Facebook profile picture because apparently that's prime browsing time. Some say Saturday morning is a good time to grab likes and comments on an Instagram! I always wondered if these rules apply to YouTube videos as well. So distributed the publish time along days of the week and foundthe following information.
+
 ![]({{ site.baseurl }}/assets/images/UploadDays.png)
 
 
