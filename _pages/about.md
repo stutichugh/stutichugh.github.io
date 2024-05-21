@@ -14,11 +14,15 @@ comments: true
 
 
 	 	<img class="center" src="/assets/images/rsz_homepagephoto.jpg" alt="Responsive image">
-	I'm an analyst, a traveller, a self-proclaimed comedian, a serial binge-watcher, and a creative person. I love reading, working with data, psychology, and finding ways to merge all my passions and interests into one(like I try with this blog ;)<br>
-		I created this website to share my experiences and stories about travelling and living in different countries. I also use this space to share my love for comedy, TV shows, and books by sharing reviews and recommendations. <br>
-		This website may also feature some of my personal projects within the analytics domain. <br>
+	I'm a data analyst, a traveller, a self-proclaimed comedian, a serial binge-watcher, and a creative person. I love reading, working with data, psychology, and finding ways to merge all my passions and interests into one(like I try with this blog)<br>
+	_Stutiphanies_ was the name coined by me in my standup days to share my comedic observations, that I thought would also someday be the name of my Netflix special (haha); but over the years I have learned that I am more comfortable being a comedy writer than a perfomer, which is why I decided to rebrand this blog as _Stutiphanies_ aka _Stuti's epiphanies_.
 
-		Hope y'all enjoy peeking into my world via this blog...:)
+	Everything starting from something as small as a funny phrase in one of these posts to as big as the inception of this blog -hosting on GitHub pages, using Jekyll to do the design, all of it can be thought of as a low to mid-tier epiphany of mine, hence the decision to not reserve the name _stutiphanies_ for a future standup special or a coffee shop I may ending up owning, and use it instead of this blog.
+
+	I created Stutiphanies to share my experiences and stories about travelling and living in different countries. I also use this space to share my love for comedy, TV shows, and books by sharing reviews and recommendations. <br>
+	Stutiphanies may also feature some of my personal projects within the analytics domain. <br>
+
+	Hope y'all enjoy peeking into my world via this blog...:)
 </p>
 
 <!-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
