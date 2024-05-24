@@ -4,7 +4,7 @@ title:  "Rewiring my brain/goals/life...using Ali Abdaal's book - Feel Good Prod
 categories: [ review, book ]
 tags: [review, book]
 image: assets/images/ali-abdaal-feel-good-productivity.jpeg
-featured: true
+featured: false
 ---
 I have been an _Ali Abdaal_ fan since I started this blog. Actually he may be one of the reasons I started this blog. One 20 minute Ali video could inspire upto 10 hours of creativity and productivity in me so I thought how great would it be if I got his book - Feel Good Productivity and use it to do some goal/life resetting for the new year 2024.
 Here are my favorite takeaways from the book (along with some personal tangents, if you’re so inclined to learn about my life lately. . .):

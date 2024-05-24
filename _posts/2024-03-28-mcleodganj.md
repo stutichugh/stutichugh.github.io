@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mcleodganj Roadtrip 🚗 😁⛰️"
-featured: true
+featured: false
 categories: [travel]
 tags: [travel]
 image: assets/images/lotus_tattoo_2.JPG
