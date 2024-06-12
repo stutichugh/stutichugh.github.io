@@ -3,7 +3,7 @@ layout: post
 title:  "Why Pinterest is my current favorite app and...throwback to my time visiting their HQ in SF"
 featured: true
 <!-- author: sal -->
-categories: [tech, data, travel]
+categories: ["data/tech", travel]
 tags: [tech, data, travel]
 image: assets/images/stutipin.jpg
 ---

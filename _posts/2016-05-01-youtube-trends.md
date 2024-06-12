@@ -3,7 +3,7 @@ layout: post
 title:  "Youtube Trends Case Study"
 featured: true
 <!-- author: sal -->
-categories: [tech, data]
+categories: ["data/tech"]
 tags: [tech, data]
 image: assets/images/SSIS.JPG
 ---
