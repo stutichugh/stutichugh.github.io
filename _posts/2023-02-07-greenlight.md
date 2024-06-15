@@ -3,7 +3,7 @@ layout: post
 title:  "Why Greenlight Planet(now Sunking) is a cool place to work at"
 featured: false
 #Archive: yes
-categories: [ review, "data/tech"]
+categories: [ review, "Data/Tech"]
 tags: [ review, tech, data]
 image: assets/images/IMG_7716.jpg
 ---
