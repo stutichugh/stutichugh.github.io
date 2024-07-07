@@ -304,7 +304,7 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-img[alt=img-pinterest] { width:100%; }
+img[alt=img-pinterest] { width:1000px ; height: 450px;}
 
 .mainheading h1.sitetitle {
     /* font-family: Righteous; */
