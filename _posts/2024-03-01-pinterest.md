@@ -12,11 +12,19 @@ Pinterest is my favorite app at the moment. Just like any millenial/genZ I am on
 This led me to reconnect with my creative side and make so many boards for [art inspo](https://pin.it/7znuGUFvo), [fashion and makeup](https://pin.it/4QGH6yer2), [outfit inspo](https://pin.it/4iIO7triq), [mental health](https://pin.it/59P7FMY47), and [many more](https://pin.it/2hlp2eYJ8)
 
 Lately I have been using Pinterest to get inspiration for acryclic art projects that I can use as wall art for my new ap{art}ment. 🏠🎨😁 Here are some of my latest creations:
- <img src="{{ site.baseurl }}/assets/images/embroidery-art-1.JPG" alt="Image A" width="500" /> 
-<img src="{{ site.baseurl }}/assets/images/embroidery-art-2.jpg" alt="Image B" width="500" /> 
+
+:-------------------------:|:-------------------------:|:-------------------------:
+![]({{ site.baseurl }}/assets/images/embroidery-art-1.JPG)  |  ![]({{ site.baseurl }}/assets/images/embroidery-art-2.jpg)|  ![]({{ site.baseurl }}/assets/images/gre.jpeg)
 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![]({{ site.baseurl }}/assets/images/embroidery_self_love_wip.jpg)  |  ![]({{ site.baseurl }}/assets/images/embroidery_self_love.jpg)|  ![]({{ site.baseurl }}/assets/images/embroidery_self_love_and_growth.jpg)
+
+:-------------------------:|:-------------------------:|:-------------------------:
+![]({{ site.baseurl }}/assets/images/cyt.png)  |  ![]({{ site.baseurl }}/assets/images/taco.jpeg)|  ![]({{ site.baseurl }}/assets/images/pd_art_beach.jpeg)
+
+:-------------------------:|:-------------------------:|:-------------------------:
+![]({{ site.baseurl }}/assets/images/teacup-xandra.jpg)  |  ![]({{ site.baseurl }}/assets/images/r.png)|  ![]({{ site.baseurl }}/assets/images/s_totebag.jpeg)
+
 
 Aside from invoking the artist in me, it also refreshed my memories of the times I spent at Girls Who Code that led me to create [my personal website](https://stuti113.github.io/index.html) which I am now going to merge into this blog. My motivation? Also Pinterest! 
 
