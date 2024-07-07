@@ -19,9 +19,6 @@ Lately I have been using Pinterest to get inspiration for acryclic/watercolor ar
 :-------------------------:|:-------------------------:|:-------------------------:
 ![img-pinterest]({{ site.baseurl }}/assets/images/embroidery_self_love_wip.jpg)  |  ![img-pinterest]({{ site.baseurl }}/assets/images/embroidery_self_love.jpg) |  ![img-pinterest]({{ site.baseurl }}/assets/images/embroidery_self_love_and_growth.jpg)
 
-:-------------------------:|:-------------------------:|:-------------------------:
-![img-pinterest]({{ site.baseurl }}/assets/images/cyt.png)  |  ![img-pinterest]({{ site.baseurl }}/assets/images/tacos.jpeg) |  ![img-pinterest]({{ site.baseurl }}/assets/images/pd_art_beach.jpeg)
-
 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![img-pinterest]({{ site.baseurl }}/assets/images/cyt.png)  |  ![img-pinterest]({{ site.baseurl }}/assets/images/taco.jpeg) |  ![img-pinterest]({{ site.baseurl }}/assets/images/pd_art_beach.jpeg)
