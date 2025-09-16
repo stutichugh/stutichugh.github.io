@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Stutiphanies: 1 minute blog"
-featured: true
 categories: [stutiphanies]
 tags: [stutiphanies]
 ---
