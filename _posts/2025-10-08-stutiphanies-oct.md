@@ -14,4 +14,4 @@ Scribbled some in my notes app and calling it a blog. A one minute blog, if you 
 - Pursuing fitness is the real catch-22. You need stamina to build stamina, abstain from good foods to build natural dopamine - its all too delayed a gratification process for my recently reel scrolling brain
 - Being a hyper independent lover girl is amusing - ask my notes app (***switches from limerence poetry to LLM coursera notes to company revenue dash back to mopey crushing in a span of minutes***)
 - A playlist or mood board curated based on different eras of your life is fastest way to hack nostalgia into helping u revisit that version of yourself (my favorites - sophomore2k16, urbanoutifftersdiscoveryerachicago)
-- After having tasted monetary success in 3 difference currencies(€,₹.$), I’d say none of them are as appealing as my newly discovered favority currency - time (or _fursat_ as I like to call it when feeling fancy)
+- After having tasted monetary success in 3 difference currencies(€,₹, $), I’d say none of them are as appealing as my newly discovered favorite currency - time (or _fursat_ as I like to call it when feeling fancy)
